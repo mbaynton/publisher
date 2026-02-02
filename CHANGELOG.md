@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added R, Python, and Quarto interpreter version to the logs. (#2532)
 - Added automatic discovery of static assets for R Markdown projects. (#3233)
 - Added `positPublisher.enableConnectCloud` setting to disable publishing to Posit Connect Cloud. When set to `false`, Connect Cloud is hidden from the platform picker when creating new credentials, and existing Connect Cloud credentials are filtered from the deployment credential list. Existing Connect Cloud deployments remain accessible. (#3411)
+- Open file and expand or collapse directory when clicking on file name (#3187q)
 
 ### Fixed
 
